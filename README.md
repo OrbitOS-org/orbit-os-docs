@@ -10,12 +10,12 @@ The full reference for all services, permissions and device APIs in the Orbit OS
   <a href="https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf"><img src="images/cover-v26.1.0.png" width="600" alt="Cover of the Orbit OS SDK API Reference manual, v26.1.0"></a>
 </p>
 
-| API version | Released | Status | Download |
-|---|---|---|---|
-| v26.1.0 | September 2026 | **Recommended** | [Orbit_OS_SDK_API_Reference_v26.1.0.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf) |
-| v26.0.3 | October 2026 | Old | PDF not available |
-| v26.0.2 | October 2026 | Old | PDF not available |
-| v26.0.1 | May 2026 | Old | [Orbit_OS_SDK_API_Reference_v26.0.1.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.0.1.pdf) |
+| API | Released | Status | SDK versions | Manual (PDF) |
+|---|---|---|---|---|
+| 26.1 | September 2026 | **Recommended** | 26.1.0 | [Orbit_OS_SDK_API_Reference_v26.1.0.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf) |
+| 26.0 | May 2026 | Old | 26.0.1, 26.0.2, 26.0.3 | [Orbit_OS_SDK_API_Reference_v26.0.1.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.0.1.pdf) |
+
+The first two numbers are the API version; the third is the SDK revision for that API. SDK revisions only fix the SDK wrappers, so one manual covers every SDK version of the same API.
 
 The same reference is available online at [orbit-os.org/api-reference.html](https://www.orbit-os.org/api-reference.html).
 
