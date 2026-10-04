@@ -8,10 +8,8 @@ The full reference for all services, permissions and device APIs in the Orbit OS
 
 | API version | Download |
 |---|---|
-| v26.1.0 | [Orbit_OS_SDK_API_Reference_v26.1.0.pdf](https://github.com/OrbitOS-org/orbit-os-docs/releases/download/v26.1.0/Orbit_OS_SDK_API_Reference_v26.1.0.pdf) |
-| v26.0.1 | [Orbit_OS_SDK_API_Reference_v26.0.1.pdf](https://github.com/OrbitOS-org/orbit-os-docs/releases/download/v26.0.1/Orbit_OS_SDK_API_Reference_v26.0.1.pdf) |
-
-The manuals are published as assets on the [Releases](https://github.com/OrbitOS-org/orbit-os-docs/releases) page, one release per API version.
+| v26.1.0 | [Orbit_OS_SDK_API_Reference_v26.1.0.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf) |
+| v26.0.1 | [Orbit_OS_SDK_API_Reference_v26.0.1.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.0.1.pdf) |
 
 The same reference is available online at [orbit-os.org/api-reference.html](https://www.orbit-os.org/api-reference.html).
 
