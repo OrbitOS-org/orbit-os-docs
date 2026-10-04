@@ -7,13 +7,13 @@ Downloadable documentation for [Orbit OS](https://www.orbit-os.org), the embedde
 The full reference for all services, permissions and device APIs in the Orbit OS SDK, as a printable manual. Each manual covers Go, Java and Python.
 
 <p align="center">
-  <a href="https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf"><img src="images/cover-v26.1.0.png" width="360" alt="Cover of the Orbit OS SDK API Reference manual, v26.1.0"></a>
+  <a href="https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf"><img src="images/cover-v26.1.0.png" width="600" alt="Cover of the Orbit OS SDK API Reference manual, v26.1.0"></a>
 </p>
 
-| API version | Download |
-|---|---|
-| v26.1.0 | [Orbit_OS_SDK_API_Reference_v26.1.0.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf) |
-| v26.0.1 | [Orbit_OS_SDK_API_Reference_v26.0.1.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.0.1.pdf) |
+| API version | Released | Status | Download |
+|---|---|---|---|
+| v26.1.0 | September 2026 | **Recommended** | [Orbit_OS_SDK_API_Reference_v26.1.0.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.1.0.pdf) |
+| v26.0.1 | May 2026 | Old | [Orbit_OS_SDK_API_Reference_v26.0.1.pdf](https://www.orbit-os.org/pdfs/Orbit_OS_SDK_API_Reference_v26.0.1.pdf) |
 
 The same reference is available online at [orbit-os.org/api-reference.html](https://www.orbit-os.org/api-reference.html).
 
